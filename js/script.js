@@ -1,3 +1,4 @@
+// Header, parallax moon
 var rellax = new Rellax('.rellax');
 
 const navbar = document.querySelector(".navbar");
