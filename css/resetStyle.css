@@ -28,7 +28,8 @@ a {
     cursor: pointer;
 }
 
-button {
+button,
+input {
     border: 0;
     outline: 0;
     cursor: pointer;
